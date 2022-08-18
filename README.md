@@ -6,11 +6,8 @@ Submitted by: **Natalie Poist**
 
 Link to project: https://glitch.com/~light-sound-memory-game-poist
 
+A light and sound memory game that shows the user a pattern one square at a time and has the user repeat the pattern back. Once the user has made a mistake, the game shows a failure message.
 
 ## Video Walkthrough (GIF)
-
-If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](http://g.recordit.co/FiKoeVIy7F.gif)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+
